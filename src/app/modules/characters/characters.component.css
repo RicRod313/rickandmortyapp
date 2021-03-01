@@ -1,0 +1,20 @@
+.item-character {
+  padding: 5px;
+  width: auto;
+  height: auto;
+}
+
+img.mat-card-image{
+  min-height: 80px;
+  max-height: 300px;
+  min-width: 80px;
+  max-width: 300px;
+}
+
+mat-card{
+  background-color: rgb(107, 197, 80);
+}
+
+.btn-card{
+  background-color: rgb(0, 167, 179);
+}

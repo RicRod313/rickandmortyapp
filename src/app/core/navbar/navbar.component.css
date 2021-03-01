@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
+
+.sidenav-container {
+  height: 100%;
+}
+
+.primary-color {
+  background-color: rgb(107, 197, 80);
+  color: white;
+  font-family: 'Creepster', cursive;
+}
+
+.sidenav {
+  width: 200px;
+}
+
+.mat-toolbar.mat-primary {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+.img-logo {
+  display: flex;
+  align-self: center;
+}
+
+.font-Terror{
+  font-family: 'Creepster', cursive;
+}

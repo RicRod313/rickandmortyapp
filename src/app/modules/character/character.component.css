@@ -1,0 +1,25 @@
+.data-content{
+  font-family: "Roboto", "Helvetica Neue", sans-serif;
+  height: 100%;
+  font-size: 20px;
+  display: flex;
+  align-self: center;
+  background-color: rgb(0, 167, 179);
+  padding: 20px;
+  font-weight: bolder;
+}
+
+.container-detail{
+  position: absolute;
+  padding-top: 10%;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.61);
+}
+
+.img-background {
+  position: absolute;
+  height: auto;
+  width: 100%;
+}
+
